@@ -1,13 +1,18 @@
 ﻿# Maid Hiring Management System Project in PHP
 
-## Technolgies 
+## Technologies 
 
 Language Used	PHP5.6, PHP7.x
+
 Database	MySQL 5.x
+
 User Interface Design	HTML, AJAX,JQUERY,JAVASCRIPT
+
 Web Browser	Mozilla, Google Chrome, IE8, OPERA
+
 Software	XAMPP / Wamp / Mamp/ Lamp (anyone)
 
+## About Project
 The aim of ‘Maid Hiring Management System in PHP ’ is to automate its existing manual system by the help of computerized equipment and full-fledge computer software, fulfilling their requirements so that their valuable date can be stored for a longer period with easy accessing and manipulation of the same. Basically the project describes how to handle good performance and provide better services to clients. This project can lead to error free, secure, reliable and fast management system. This system will help the organization in better utilization of resources.
 
 ## Project Modules
